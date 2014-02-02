@@ -1,0 +1,3 @@
+[submodule "builds/iphone/www"]
+	path = builds/iphone/www
+	url = https://github.com/KageKirin/kyokushindoapp-build.git
