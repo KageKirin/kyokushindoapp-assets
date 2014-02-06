@@ -23,7 +23,7 @@
 #     ANY RIGHTS NOT EXPRESSLY GRANTED ARE HEREBY RESERVED BY TOURA, LLC.
 
 # Enter your application name here (required!)
-name: ./kyokushindo
+name: Kyokushindo
 
 os:
   # Specify the operating systems to target
