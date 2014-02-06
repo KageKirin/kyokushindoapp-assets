@@ -1,2 +1,44 @@
-- home
+- home:
+  - home_dojokun
+  - home_organization
+  - home_history:
+    - home_history_kyokushin:
+      - home_history_kyokushin_sosai
+      - home_history_kyokushin_post_sosai
+    - home_history_kyokushindo
+  - home_curriculum:
+    - home_curriculum_kancho_hagen_behboudi
+    - home_curriculum_shihan_erika_schneider
+  - home_international:
+    - home_international_germany
+    - home_international_japan
+    - home_international_netherlands
+    - home_international_sweden
+    - home_international_bulgaria
+    - home_international_ukraine
+    - home_international_spain
+    - home_international_russia
+    - home_international_iran
+    - home_international_iraq
+    - home_international_pakistan
+    - home_international_afghanistan
+    - home_international_kazakhstan
+    - home_international_algeria
+    - home_international_azerbaijan
+    - home_international_chile
+  - home_championships:
+    - home_championships_krefeld2012
+    - home_championships_krefeld2011
+    - home_championships_krefeld2010
+    - home_championships_krefeld2009
+    - home_championships_krefeld2008
+    - home_championships_duesseldorf2007
+  - home_kumite:
+    - home_kumite_shinpan
+    - home_kumite_field
+    - home_kumite_forbidden_techniques
+  - home_techniques:
+    - home_techniques_kihon
+    - home_techniques_kata
+    - home_techniques_kumite
 - about
